@@ -23,6 +23,7 @@
 
 <h1>★Projetos em destaque★</h1>
 <p>
+    🖤 **[Portifólio Pessoal](https://isabellagarofo.github.io/portifolio/)** - Site pessoal com identidade visual personalizada, efeitos holográficos e design totalmente autoral.
     Confira meus repositórios fixados abaixo para ver o que ando desenvolvendo atualmente!💻
 </p>
 
