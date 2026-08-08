@@ -1,4 +1,4 @@
-<h1 align='center'>Olá, eu sou a Isabella!❣️</h1>
+<h1 align='center'>★Olá, eu sou a Isabella!★</h1>
 <p align='center'>
     🎓 Técnica em Desenvolvimento de Sistemas | 💻 Aprendendo a construir páginas na web.
 </p>
